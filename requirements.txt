@@ -1,0 +1,7 @@
+All this libaries are required for the project. You can install them using pip:
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
